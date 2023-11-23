@@ -1,0 +1,6 @@
+xlsxwriter
+pandas
+streamlit
+seaborn
+matplotlib
+pillow

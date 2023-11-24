@@ -19,7 +19,7 @@ def main():
 
 	link = 'https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset'
 	st.markdown("# Projeto Módulo 31\n### Aluno: Bruno Perdigão")
-	st.write("Utilização de K-Means para agrupamento de dados do Varejo. [Veja aqui](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset) a base de dados utilizada.\n [Veja aqui]() a solução utilizada para criar os agrupamentos.")
+	st.write("Utilização de K-Means para agrupamento de dados do Varejo. Veja [a base de dados](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset) utilizada e [a solução utilizada](https://github.com/brunoperdigao/Tarefas-EBAC-Cientista-de-Dados/blob/main/M31/Pre-Streamlit.ipynb) para criar os agrupamentos.")
 
 	st.markdown("---")
 	st.markdown("## Dataframe")
